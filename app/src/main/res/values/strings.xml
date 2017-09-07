@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Second_app</string>
+    <string name="button1">注册</string>
+    <string name="button2">返回</string>
+    <string name="TextView1">注册</string>
+    <string name="EditText1">请输入邮箱</string>
+    <string name="EditText2">请输入密码</string>
+    <string name="TextView2">注册成功</string>
 </resources>
